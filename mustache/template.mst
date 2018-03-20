@@ -1,0 +1,7 @@
+{{#registro}}
+<div class="resultItem">
+	<h3 class="title">{{title}}</h3>
+	<h2 class="title">{{nombre-user}} :  {{nombre}} </h2> 
+	<textarea> {{desc}} </textarea>
+</div>
+{{/registro}}

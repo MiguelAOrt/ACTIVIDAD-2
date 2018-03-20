@@ -1,0 +1,25 @@
+{
+	"registro": [
+		{
+			"id": "1",
+			"title": "registro 1",
+			"nombre-user": "Heider dijo",
+			"pregunta": "¿esta en una pregunta?",
+			"desc": "La pregunta va diriga al profesor"
+		},
+		{
+			"id": "2",
+			"title": "registro 2",
+			"nombre-user": "Miguel dijo",
+			"pregunta": "¿esta en otra pregunta?",
+			"desc": "Esta es una pregunta más xd"
+		},
+		{
+			"id": "3",
+			"title": "registro 3",
+			"nombre-user": "Juan dijo",
+			"pregunta": "¿esta es otra pregunta más por la cual ver?",
+			"desc": "Esta es una pregunta n° 3"
+		}
+	]
+}
